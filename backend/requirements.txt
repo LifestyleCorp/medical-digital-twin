@@ -10,3 +10,4 @@ BioPython
 tensorflow
 torch
 torchvision
+djongo

@@ -1,3 +1,6 @@
+
+
+
 version: '3.8'
 
 services:
@@ -13,6 +16,14 @@ services:
     depends_on:
       - db
 
+  nodejs_backend:
+    build: ./backend/nodejs_backend
+    container_name: human_digital_twin_nodejs_backend
+    ports:
+      - "4000:4000"
+    depends_on:
+      - backend
+
   frontend:
     build: ./frontend
     container_name: human_digital_twin_frontend
@@ -24,6 +35,7 @@ services:
       - ./frontend:/app
     depends_on:
       - backend
+      - nodejs_backend
 
   db:
     image: postgres:13
@@ -37,5 +49,17 @@ services:
     volumes:
       - postgres_data:/var/lib/postgresql/data/
 
+  mongo:
+    image: mongo:5.0
+    container_name: human_digital_twin_mongo
+    ports:
+      - "27017:27017"
+    environment:
+      MONGO_INITDB_ROOT_USERNAME: mongouser
+      MONGO_INITDB_ROOT_PASSWORD: mongopassword
+    volumes:
+      - mongo_data:/data/db
+
 volumes:
   postgres_data:
+  mongo_data:

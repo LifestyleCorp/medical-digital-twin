@@ -56,16 +56,37 @@ WSGI_APPLICATION = 'app.application'
 
 # Database
 
+
+# backend/src/config/settings.py
+
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.postgresql',
+        'ENGINE': 'djongo',
         'NAME': os.getenv('POSTGRES_DB', 'human_digital_twin'),
-        'USER': os.getenv('POSTGRES_USER', 'yourusername'),
-        'PASSWORD': os.getenv('POSTGRES_PASSWORD', 'yourpassword'),
-        'HOST': 'db',
-        'PORT': 5432,
+        'ENFORCE_SCHEMA': False,
+        'CLIENT': {
+            'host': 'db',
+            'port': 5432,
+            'username': os.getenv('POSTGRES_USER', 'yourusername'),
+            'password': os.getenv('POSTGRES_PASSWORD', 'yourpassword'),
+            'authSource': 'admin',
+            'authMechanism': 'SCRAM-SHA-256',
+        }
+    },
+    'mongo': {
+        'ENGINE': 'djongo',
+        'NAME': 'human_digital_twin_mongo',
+        'CLIENT': {
+            'host': 'mongo',
+            'port': 27017,
+            'username': 'mongouser',
+            'password': 'mongopassword',
+            'authSource': 'admin',
+            'authMechanism': 'SCRAM-SHA-256',
+        }
     }
 }
+
 
 # Static files (CSS, JavaScript, Images)
 
