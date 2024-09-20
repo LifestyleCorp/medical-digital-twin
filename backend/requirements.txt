@@ -6,3 +6,7 @@ pytest
 pytest-django
 flake8
 black
+BioPython
+tensorflow
+torch
+torchvision
