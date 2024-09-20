@@ -212,6 +212,9 @@ To get started with the Human Digital Twin project, follow the [Installation](#i
 
 # Support
 
+# Human Digital Twin Project Structure
+
+```plaintext
 human-digital-twin/
 ├── backend/
 │   ├── src/
@@ -244,6 +247,7 @@ human-digital-twin/
 ├── README.md
 ├── docker-compose.yml
 └── .gitignore
+
 
 
 If you encounter any issues or have questions, feel free to open an [Issue](https://github.com/your-username/human-digital-twin/issues) or reach out to the maintainers.
