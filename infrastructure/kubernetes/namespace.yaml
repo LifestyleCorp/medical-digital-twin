@@ -1,0 +1,6 @@
+# infrastructure/kubernetes/namespace.yaml
+
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: human-digital-twin

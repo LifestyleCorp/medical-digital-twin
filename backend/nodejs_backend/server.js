@@ -3,6 +3,7 @@
 const express = require('express');
 const http = require('http');
 const socketIo = require('socket.io');
+const winston = require('winston');
 
 const app = express();
 const server = http.createServer(app);
@@ -13,20 +14,28 @@ const io = socketIo(server, {
   }
 });
 
+// Setup Winston logger
+const logger = winston.createLogger({
+  level: 'info',
+  format: winston.format.json(),
+  transports: [
+    new winston.transports.Console(),
+    new winston.transports.File({ filename: 'combined.log' })
+  ],
+});
+
 io.on('connection', (socket) => {
-  console.log('New client connected');
+  logger.info('New client connected');
 
   socket.on('disconnect', () => {
-    console.log('Client disconnected');
+    logger.info('Client disconnected');
   });
 
-  // Example event
   socket.on('sendData', (data) => {
-    console.log('Received data:', data);
-    // Emit to other clients or process data
+    logger.info('Received data:', data);
     socket.broadcast.emit('receiveData', data);
   });
 });
 
 const PORT = process.env.PORT || 4000;
-server.listen(PORT, () => console.log(`Node.js server running on port ${PORT}`));
+server.listen(PORT, () => logger.info(`Node.js server running on port ${PORT}`));
