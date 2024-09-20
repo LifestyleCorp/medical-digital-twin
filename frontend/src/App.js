@@ -5,6 +5,7 @@ import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import Header from './components/Header';
 import Dashboard from './pages/Dashboard';
 import TrainModel from './pages/TrainModel';
+import UnitySimulation from './pages/UnitySimulation';
 
 function App() {
   return (
@@ -13,6 +14,7 @@ function App() {
       <Routes>
         <Route path="/" element={<Dashboard />} />
         <Route path="/train-model" element={<TrainModel />} />
+        <Route path="/unity-simulation" element={<UnitySimulation />} />
       </Routes>
     </Router>
   );
