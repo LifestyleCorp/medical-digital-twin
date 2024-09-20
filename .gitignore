@@ -1,0 +1,34 @@
+# Python
+backend/venv/
+backend/__pycache__/
+backend/*.pyc
+backend/*.pyo
+backend/*.pyd
+
+# Django
+backend/db.sqlite3
+backend/staticfiles/
+backend/media/
+
+# Node.js
+frontend/node_modules/
+frontend/build/
+
+# Logs
+logs/
+*.log
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+
+# Docker
+*.env
+docker-compose.override.yml
+
+# Testing
+coverage/
