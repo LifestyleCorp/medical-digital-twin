@@ -1,7 +1,8 @@
 
 # Human Digital Twin: Comprehensive Medical Simulation
 
-![Project Logo](assets/logo.png)
+
+![human digital twin](https://github.com/user-attachments/assets/f765dfce-631c-4b75-b37b-fd5b7689fa60)
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Python Version](https://img.shields.io/badge/python-3.8%2B-blue.svg)
