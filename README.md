@@ -212,6 +212,40 @@ To get started with the Human Digital Twin project, follow the [Installation](#i
 
 # Support
 
+human-digital-twin/
+├── backend/
+│   ├── src/
+│   ├── tests/
+│   ├── requirements.txt
+│   ├── Dockerfile
+│   └── README.md
+├── frontend/
+│   ├── src/
+│   ├── public/
+│   ├── package.json
+│   ├── Dockerfile
+│   └── README.md
+├── docs/
+│   ├── API.md
+│   ├── Architecture.md
+│   └── UserGuide.md
+├── scripts/
+│   ├── setup.sh
+│   └── deploy.sh
+├── .github/
+│   ├── workflows/
+│   │   └── ci.yml
+│   └── ISSUE_TEMPLATE/
+│       └── bug_report.md
+├── assets/
+│   ├── logo.png
+│   └── architecture.png
+├── LICENSE
+├── README.md
+├── docker-compose.yml
+└── .gitignore
+
+
 If you encounter any issues or have questions, feel free to open an [Issue](https://github.com/your-username/human-digital-twin/issues) or reach out to the maintainers.
 
 ---
