@@ -193,8 +193,8 @@ This project is licensed under the [MIT License](LICENSE).
 ## Contact
 
 - **Project Lead**: [Dr. Jaic Sam](rahuljaicsam@gmail.com)
-- **GitHub**: [your-username]([https://github.com/rahuljaicsam])
-- **LinkedIn**: [Jaic Sam]([(https://www.linkedin.com/in/rahuljaicsam/)])
+- **GitHub**: [rahuljaicsam]([https://github.com/rahuljaicsam])
+- **LinkedIn**: [Rahul Jaic Sam]([(https://www.linkedin.com/in/rahuljaicsam/)])
 
 ---
 
