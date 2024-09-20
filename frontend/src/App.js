@@ -23,7 +23,9 @@ function App() {
         <Route path="/send-log" element={<SendLog />} />
       </Routes>
     </Router>
+    
   );
+
 }
 
 export default App;

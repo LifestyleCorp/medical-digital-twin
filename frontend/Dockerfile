@@ -1,7 +1,9 @@
-# Use official Node.js image as base
+# frontend/Dockerfile
+
+# Base image
 FROM node:14
 
-# Set working directory
+# Set work directory
 WORKDIR /app
 
 # Install dependencies
@@ -14,9 +16,7 @@ COPY . .
 # Build the app
 RUN npm run build
 
-# Serve the app with a simple server (optional)
-# You can use nginx or any other server
-# For simplicity, we'll use serve
+# Install serve to serve static files
 RUN npm install -g serve
 
 # Expose port
@@ -24,3 +24,4 @@ EXPOSE 3000
 
 # Start the app
 CMD ["serve", "-s", "build", "-l", "3000"]
+
