@@ -192,9 +192,9 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-- **Project Lead**: [Dr. Jane Smith](mailto:jane.smith@example.com)
-- **GitHub**: [your-username](https://github.com/your-username)
-- **LinkedIn**: [Jane Smith](https://www.linkedin.com/in/jane-smith)
+- **Project Lead**: [Dr. Jaic Sam](rahuljaicsam@gmail.com)
+- **GitHub**: [your-username](https://github.com/rahuljaicsam)
+- **LinkedIn**: [Jaic Sam]((https://www.linkedin.com/in/rahuljaicsam/))
 
 ---
 
@@ -211,6 +211,12 @@ To get started with the Human Digital Twin project, follow the [Installation](#i
 - **Contributors** who continuously support and enhance the project.
 
 # Support
+
+If you encounter any issues or have questions, feel free to open an [Issue](https://github.com/LifestyleCorp/medical-digital-twin/issues) or reach out to the maintainers.
+
+---
+
+© 2024 Human Digital Twin Project. All rights reserved.
 
 # Human Digital Twin Project Structure
 
@@ -250,8 +256,4 @@ human-digital-twin/
 
 
 
-If you encounter any issues or have questions, feel free to open an [Issue](https://github.com/your-username/human-digital-twin/issues) or reach out to the maintainers.
 
----
-
-© 2024 Human Digital Twin Project. All rights reserved.
