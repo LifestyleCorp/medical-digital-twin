@@ -29,9 +29,7 @@ Welcome to the **Human Digital Twin** project—a pioneering initiative to creat
 
 By leveraging cutting-edge technologies in computational biology, machine learning, and high-performance computing, this project aspires to revolutionize the way we understand, diagnose, and treat human diseases.
 
-
-https://github.com/user-attachments/assets/3d6a0b66-1a57-4f4f-8140-f56f49879076
-
+https://www.youtube.com/watch?v=sQrtbg3zOTE
 
 
 https://github.com/user-attachments/assets/04a4acbe-ee4d-4fab-a1b9-555715306085
