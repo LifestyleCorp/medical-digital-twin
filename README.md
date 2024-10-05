@@ -32,8 +32,6 @@ By leveraging cutting-edge technologies in computational biology, machine learni
 https://www.youtube.com/watch?v=sQrtbg3zOTE
 
 
-https://github.com/user-attachments/assets/04a4acbe-ee4d-4fab-a1b9-555715306085
-
 
 
 ## Features
@@ -46,14 +44,6 @@ https://github.com/user-attachments/assets/04a4acbe-ee4d-4fab-a1b9-555715306085
 - **Interactive Visualization**: Intuitive 3D visualizations for better understanding and analysis.
 - **API Access**: Robust APIs for integrating with other medical and research tools.
 
-
-
-
-https://github.com/user-attachments/assets/140a4f4b-b5e5-48f6-92ae-9b395b5fa8da
-
-
-
-https://github.com/user-attachments/assets/63bb0233-53c5-491b-a248-0f9e06e0506a
 
 
 
