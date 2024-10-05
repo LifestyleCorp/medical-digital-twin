@@ -27,6 +27,11 @@ Welcome to the **Human Digital Twin** project—a pioneering initiative to creat
 
 By leveraging cutting-edge technologies in computational biology, machine learning, and high-performance computing, this project aspires to revolutionize the way we understand, diagnose, and treat human diseases.
 
+
+https://github.com/user-attachments/assets/3d6a0b66-1a57-4f4f-8140-f56f49879076
+
+
+
 ## Features
 
 - **Cellular Simulation**: Detailed modeling of individual cell types, their interactions, and behaviors.
@@ -36,6 +41,12 @@ By leveraging cutting-edge technologies in computational biology, machine learni
 - **Personalized Healthcare**: Tailor simulations based on individual patient data for personalized treatment plans.
 - **Interactive Visualization**: Intuitive 3D visualizations for better understanding and analysis.
 - **API Access**: Robust APIs for integrating with other medical and research tools.
+
+
+
+https://github.com/user-attachments/assets/63bb0233-53c5-491b-a248-0f9e06e0506a
+
+
 
 ## Technology Stack
 
