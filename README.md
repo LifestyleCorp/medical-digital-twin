@@ -49,6 +49,15 @@ https://github.com/user-attachments/assets/b61d9c08-70a0-4b66-a5fb-f10e8c284b07
 ![E6gnIetXoAI5YnH](https://github.com/user-attachments/assets/18927fe2-799e-4602-b333-ed5a1a96b989)
 
 
+
+https://github.com/user-attachments/assets/40f0e63e-c7c6-4cff-84b9-aed68f296327
+
+
+
+https://github.com/user-attachments/assets/15e3fca3-9d4a-4ba9-a340-313c626c0f49
+
+
+
 ## Features
 
 - **Cellular Simulation**: Detailed modeling of individual cell types, their interactions, and behaviors.
