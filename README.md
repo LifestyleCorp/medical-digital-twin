@@ -4,6 +4,8 @@
 
 ![human digital twin](https://github.com/user-attachments/assets/f765dfce-631c-4b75-b37b-fd5b7689fa60)
 
+all illustrations and blender videos are made by Chris Jones @cjones3D
+
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Python Version](https://img.shields.io/badge/python-3.8%2B-blue.svg)
 ![Build Status](https://github.com/your-username/human-digital-twin/actions/workflows/main.yml/badge.svg)
@@ -54,6 +56,20 @@ https://github.com/user-attachments/assets/140a4f4b-b5e5-48f6-92ae-9b395b5fa8da
 
 
 https://github.com/user-attachments/assets/63bb0233-53c5-491b-a248-0f9e06e0506a
+
+
+
+https://github.com/user-attachments/assets/e41931ba-325d-4332-ad2a-33270c4f3571
+
+
+
+https://github.com/user-attachments/assets/6c5e84cf-be90-47a3-bb70-7b37c79c7c84
+
+
+
+
+https://github.com/user-attachments/assets/418e0f3c-bbc4-4868-8125-0ba6b17cbe21
+
 
 
 
