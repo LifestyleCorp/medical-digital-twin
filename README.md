@@ -71,6 +71,12 @@ https://github.com/user-attachments/assets/6c5e84cf-be90-47a3-bb70-7b37c79c7c84
 https://github.com/user-attachments/assets/418e0f3c-bbc4-4868-8125-0ba6b17cbe21
 
 
+#### 3d print the digital twin to teach surgeons and robots
+
+
+https://github.com/user-attachments/assets/ec49ae56-2752-432c-8fdd-c41c831cd6de
+
+
 
 
 ## Technology Stack
