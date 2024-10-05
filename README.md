@@ -47,10 +47,6 @@ https://www.youtube.com/watch?v=sQrtbg3zOTE
 
 
 
-https://github.com/user-attachments/assets/e41931ba-325d-4332-ad2a-33270c4f3571
-
-
-
 https://github.com/user-attachments/assets/6c5e84cf-be90-47a3-bb70-7b37c79c7c84
 
 
