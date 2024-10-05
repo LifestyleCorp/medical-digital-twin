@@ -66,9 +66,31 @@ https://github.com/user-attachments/assets/15e3fca3-9d4a-4ba9-a340-313c626c0f49
 https://github.com/user-attachments/assets/6c5e84cf-be90-47a3-bb70-7b37c79c7c84
 
 
-
-
 https://github.com/user-attachments/assets/418e0f3c-bbc4-4868-8125-0ba6b17cbe21
+
+
+
+https://github.com/user-attachments/assets/aea283bb-405e-401d-936c-e4596a59aad8
+
+
+
+https://github.com/user-attachments/assets/4521126f-007d-4660-8ba5-a1537ea68bec
+
+
+
+https://github.com/user-attachments/assets/12902930-b334-4efc-ac2c-dbe75298e886
+
+
+
+https://github.com/user-attachments/assets/77d1c73f-c629-49f3-afa3-fda079caad60
+
+
+
+https://github.com/user-attachments/assets/f32bb640-bc06-4c58-8b32-48411bfc0545
+
+
+
+https://github.com/user-attachments/assets/e86015fb-2aee-4d4e-a4a1-a940bcc68797
 
 
 #### 3d print the digital twin to teach surgeons and robots
