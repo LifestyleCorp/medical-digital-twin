@@ -1,10 +1,10 @@
 
 # Human Digital Twin: Comprehensive Medical Simulation
-
+(incomplete repo and currently at literature research stage)
 
 ![human digital twin](https://github.com/user-attachments/assets/f765dfce-631c-4b75-b37b-fd5b7689fa60)
 
-all illustrations and blender videos are made by Chris Jones @cjones3D
+
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Python Version](https://img.shields.io/badge/python-3.8%2B-blue.svg)
@@ -281,7 +281,7 @@ To get started with the Human Digital Twin project, follow the [Installation](#i
 # Support
 
 If you encounter any issues or have questions, feel free to open an [Issue](https://github.com/LifestyleCorp/medical-digital-twin/issues) or reach out to the maintainers.
-
+some illustrations and blender videos are made by Chris Jones @cjones3D
 ---
 
 © 2024 Human Digital Twin Project. All rights reserved.
